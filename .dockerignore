@@ -1,0 +1,17 @@
+# Dependencies
+node_modules
+npm-debug.log*
+
+# Build output
+.next
+out
+
+# Environment
+.env*
+
+# Git
+.git
+.gitignore
+
+# OS
+.DS_Store
