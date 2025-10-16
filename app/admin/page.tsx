@@ -5,7 +5,7 @@ import type { RoomDocument } from "@/lib/types";
 import Link from "next/link";
 import { Metadata } from "next";
 
-export const metadata: Metadata = {
+const metadata: Metadata = {
   title: "Admin Panel - SyncStream",
   description: "Administrative interface for managing SyncStream rooms.",
 };
