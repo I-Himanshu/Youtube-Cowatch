@@ -63,7 +63,7 @@ Triggered on **push/merge to main**:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/I-Himanshu/Youtube-Cowatch
 cd youtube-cowatch
 ```
 2️⃣ Install Dependencies
