@@ -4,6 +4,18 @@
 Built with **Next.js**, powered by **TypeScript**, and deployed via an automated **Docker + GitHub Actions CI/CD pipeline**.
 
 ---
+## Screenshots
+### User Home Screen
+<img width="1920" height="915" alt="image" src="https://github.com/user-attachments/assets/f7fd5cf8-3345-4128-bf5e-a27550908e7b" />  
+
+### Co Watching Space
+<img width="1920" height="915" alt="image" src="https://github.com/user-attachments/assets/677fc059-6922-42d6-b0f2-40242f056f7f" />
+
+### Admin Screen
+<img width="1920" height="915" alt="image" src="https://github.com/user-attachments/assets/4a2a6734-0463-4a4f-94dc-121e405f611a" />
+
+
+---
 
 ## ✨ Features
 
