@@ -6,8 +6,8 @@ import Link from "next/link";
 import { Metadata } from "next";
 
 const metadata: Metadata = {
-  title: "Admin Panel - SyncStream",
-  description: "Administrative interface for managing SyncStream rooms.",
+  title: "Admin Panel - Youtube Co-watch",
+  description: "Administrative interface for managing Youtube Co-watch rooms.",
 };
 const AdminPage = () => {
   const [rooms, setRooms] = useState<RoomDocument[]>([]);
