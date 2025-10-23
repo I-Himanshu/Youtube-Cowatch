@@ -17,6 +17,8 @@ COPY . .
 # You'll need to pass your MONGODB_URI as a build argument
 ARG MONGODB_URI
 ENV MONGODB_URI=$MONGODB_URI
+
+# 5.1 Build here
 RUN npm run build
 
 # 6. Set the command to start the application
